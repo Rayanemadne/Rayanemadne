@@ -1,7 +1,7 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)]
+![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
 <h1 align="center">Hi 👋, I'm Rayane you can call me RAV</h1>
 <h3 align="center">I LOVE expressing my ideas and being creative.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fcoding-animated-laptop-flow-stream-ja04010rm5o68zfk.html&psig=AOvVaw3c8M3a7eN-YbYkfLDCt_rH&ust=1678498777403000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCspa2d0P0CFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayanemadne&label=Profile%20views&color=0e75b6&style=flat" alt="rayanemadne" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ravdevman" target="blank"><img src="https://img.shields.io/twitter/follow/ravdevman?logo=twitter&style=for-the-badge" alt="ravdevman" /></a> </p>
