@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif)
+
 <h1 align="center">Hi 👋, I'm Rayane you can call me RAV</h1>
 <h3 align="center">I LOVE expressing my ideas and being creative.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
