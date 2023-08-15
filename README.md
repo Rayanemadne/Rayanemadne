@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ravdevman" target="blank"><img src="https://img.shields.io/twitter/follow/ravdevman?logo=twitter&style=for-the-badge" alt="ravdevman" /></a> </p>
 
-- 🌱 I’m currently working on **ALX softwar engineering program**
+- 🌱 I’m currently working on **getting into flow state**
 
 - 📫 How to reach me **r.madoune@gmail.com**
 
