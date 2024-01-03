@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🎯 Everything is under ctrl.</p>
+<p align="left">🎯 Everything is under Ctrl.</p>
 
 ###
 
